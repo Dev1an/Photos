@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interviews during drinks
+title: Photos
 ---
 
 Open avond 14 maart 2024
