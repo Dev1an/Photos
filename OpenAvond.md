@@ -1,4 +1,8 @@
-# Interviews during drinks
+---
+layout: null
+title: Interviews during drinks
+---
+
 Open avond 14 maart 2024
 ## Video
 - [Video 1](https://damiaanmedia.s3.eu-west-3.amazonaws.com/2024-03-14/Open+Avond/Interviews+during+drinks/C0001.mov)
