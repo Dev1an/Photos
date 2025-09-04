@@ -7,6 +7,6 @@ by Sammartini, Giuseppe
 by Winfried Michel & Jürgen Janotta
 
 ### Siciliano
-- page 1 
-- page 2
-- page 3
+- [Page 1](page1.jpg)
+- [Page 2](page2.jpg)
+- [Page 3](page3.jpg)
